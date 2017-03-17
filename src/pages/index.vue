@@ -30,7 +30,7 @@
 		    <li>{{musicAuthor}}</li>
 		   	<li class="clist"></li>
 		   	<li class="clist">{{musicMsg.forward}}</li>
-		   	<!--<router-link :to="'/second/article/'+readMsg.id"><li class="last">阅读全文</li></router-link>-->
+		   	
 		  </ul>
 		  <div class="btn">		  	
 		  	<router-link to="/first">
@@ -44,7 +44,6 @@
 	import bus from "../bus.js"
 	export default {
 		mounted:function(){
-//			this.openFullScreen();
 			this.loadingImg();
 		},
 		data:function(){
@@ -161,8 +160,8 @@
 	.clist{
 		color: #929292;
 		font-size: 14px;
-		white-space:nowrap;/* 不换行 */
-		overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+		white-space:nowrap;
+		overflow:hidden;
 		text-overflow:ellipsis;
 		line-height: 30px;
 	}

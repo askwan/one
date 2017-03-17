@@ -3,46 +3,58 @@
     "data":[
     	
     	{
+    		"id":"VOL.1622",
+            "date":"2017 / 3 / 16",
+            "content":"这城市推挤着、怒目而视着数百万人，如果失去身边的几人，便仿佛来到一片荒原上。",
+            "img_src": "http://image.wufazhuce.com/FqK0tRBllhz-2hcLaEbwg2vlDT9x",
+            "category":"摄影"
+    	},{
+    		"id":"VOL.1621",
+            "date":"2017 / 3 / 15",
+            "content":"说着什么努力，只要自己努力了，即使没有做到也能被原谅，只是在撒娇而已，没有成果的话，努力还有什么意义？",
+            "img_src": "http://image.wufazhuce.com/FhRJoDt3G9zkYyETFZ1qoQMGj3u4",
+            "category":"绘画"
+    	},{
     		"id":"VOL.1620",
             "date":"2017 / 3 / 14",
             "content":"人们总是对喜欢的人不说我喜欢你，却说我想你，对想见的人不说我想你，却说要不要一起吃个饭。",
-            "img_src": "http://www.wufafuwu.com/uploads/170314/1-1F314131342M9.JPG",
+            "img_src": "http://image.wufazhuce.com/FsQ1oSOYk-HRu9r84bg9tHWzxDZM",
             "category":"绘画"
     	},{
     		"id":"VOL.1619",
             "date":"2017 / 3 / 13",
             "content":"人们常说，让时间解决一切，而我们经常忘记询问的是，是否还有足够的时间。",
-            "img_src": "http://www.wufafuwu.com/uploads/201703/170313/1-1F3130954552X.JPG",
+            "img_src": "http://image.wufazhuce.com/FgBHxwTGczXsY01f29OxsseosXgP",
             "category":"绘画"
     	},{
             "id":"VOL.1618",
             "date":"2017 / 3 / 12",
             "content":"很久以前，我想知道爱是什么。若你愿意，它就近在咫尺，你只需看见它为美所包围，隐藏在你生命的浮光掠影之中。如果你不停留片刻，也许就会与它擦肩而过。",
-            "img_src": "http://www.wufafuwu.com/uploads/201703/170312/1-1F312151420209.JPG",
+            "img_src": "http://image.wufazhuce.com/Fn-ftL2u0jnK6jKFoHdWzzPMqR-m",
             "category":"绘画"
         },{
             "id":"VOL.1617",
             "date":"2017 / 3 / 11",
             "content":"懦弱会传染，并且，勇气也会传染。",
-            "img_src": "http://www.wufafuwu.com/uploads/201703/170311/1-1F311214344161.JPG",
+            "img_src": "http://image.wufazhuce.com/FsS-qhu-Bgki1dvbaNjPCUvfWXfI",
             "category":"绘画"
         },{
             "id":"VOL.1616",
             "date":"2017 / 3 / 10",
             "content":"真实人生中，我们往往在大势已定、无可更改时才迟迟进场，却又在胜败未分的浑沌中提早离席。",
-            "img_src": "http://www.wufafuwu.com/uploads/201703/170310/1-1F31009114V16.JPG",
+            "img_src": "http://image.wufazhuce.com/FgtiFmdaf7wZsZdIWHZcqtKj0QL4",
             "category":"摄影"
         },{
     		"id":"VOL.1615",
             "date":"2017 / 3 / 9",
             "content":"我只希望你快乐，即使你的快乐里不再有我。",
-            "img_src": "http://www.wufafuwu.com/uploads/201703/170309/1-1F30910292I53.jpg",
+            "img_src": "http://image.wufazhuce.com/FjMArpyRQelZPxxnU0k2torbdXGT",
             "category":"绘画"
     	},{
     		"id":"VOL.1614",
             "date":"2017 / 3 / 8",
             "content":"有时候觉得孤独是件好事，毕竟如果全世界都懂你，这世界就不朋克了。",
-            "img_src": "http://www.wufafuwu.com/uploads/201703/170308/1-1F30Q9551c93.jpg",
+            "img_src": "http://image.wufazhuce.com/FspNnjSSxbhc7gGNd_9vd0m00nVM",
             "category":"摄影"
     	},{
             "id":"VOL.1613",

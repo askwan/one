@@ -56,10 +56,7 @@
 		    	.then(function(res){
 		    		this.imgLists = res.data.data;
 		    	}.bind(this))
-		    	this.$http.get("/one/one/ajaxlist/0?_token=892c26b1bd7fa6a5b04affd1f4abd4887039c451")
-		    	.then(function(res){
-		    		console.dir(res)
-		    	}.bind(this))
+		    	
 			},
 			loadingMore:function(){
 				this.$http.get("../static/src/img.json")

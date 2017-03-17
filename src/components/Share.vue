@@ -31,11 +31,9 @@
 		},
 		methods:{
 			closeShow:function(){
-//				console.log(111)
 				bus.$emit("closeShow")
 			},
 			openCorfirm:function(msg){
-//				console.dir(index)
 				this.$alert('分享至'+msg, '分享', {
 		          confirmButtonText: '确定',
 		          showCancelButton: true,
