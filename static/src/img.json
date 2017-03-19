@@ -2,7 +2,25 @@
 
     "data":[
     	
-    	{
+        {
+    		"id":"VOL.1622",
+            "date":"2017 / 3 / 19",
+            "content":"在流行年轻的时候，我老了。 在流行笑的时候，我哭了。 在本来无须太多勇气就能爱你的时候， 我却恨你了。 ",
+            "img_src": "http://image.wufazhuce.com/FhsZr4AJ7_FeW_JTKYF4O-g-a1Av",
+            "category":"摄影"
+    	},{
+    		"id":"VOL.1622",
+            "date":"2017 / 3 / 18",
+            "content":"要记得，生命极短。短到，用来做自己喜欢的事情，都不够；更不要说用来犹豫，以及妥协——尤其是，妥协给那些——你自己都清楚“这只是妥协”的东西。",
+            "img_src": "http://image.wufazhuce.com/FuWNIGRgvvbHTanCDqKr0VGoqOcP",
+            "category":"绘画"
+    	},{
+    		"id":"VOL.1623",
+            "date":"2017 / 3 / 17",
+            "content":"生命不必每时每刻都要冲刺，低沉时就当是放一个悠长假期。",
+            "img_src": "http://image.wufazhuce.com/Fq6YiwvgjoKm_6fG5SgVBFfm-Lhe",
+            "category":"绘画"
+    	},{
     		"id":"VOL.1622",
             "date":"2017 / 3 / 16",
             "content":"这城市推挤着、怒目而视着数百万人，如果失去身边的几人，便仿佛来到一片荒原上。",
